@@ -19,8 +19,8 @@ I have developed a responsive personal portfolio website showcasing my skills an
   - Check out my portfolio website here to get a glimpse of my work and learn more about my skills and services.
 
 ## Website Link:
-  - [MY Website Link](https://silly-centaur-d3d421.netlify.app/)
+  - [MY Website Link](https://6759e889482d7207d2e8ce12--leafy-parfait-c473c4.netlify.app/)
 
 Feel free to explore, and don't hesitate to reach out for collaboration or inquiries.
 
-<h1>Author- Shivang Baranwal</h1>
+<h1>Author- Harshal Dahiwale</h1>
